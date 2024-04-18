@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 18px;
+}
+
+header {
+    background-color: #BA7DFF;
+    height: 10vh;
+    width: 100%;
+}
+
+#intro {
+    margin-top: 25px;
+    margin-left: 14%;
+    width: 70%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#html {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 80%;
+}
+
+#css {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 80%;
+}
+
+.boxTitle {
+    display: flex;
+}
+
+.line {
+    background-color: #BA7DFF;
+    height: 25px;
+    width: 7px;
+    margin-right: 4px;
+}
